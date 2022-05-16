@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+# Johnny Saghbini 2022
 import os,sys
 import json
 from PyQt5.QtWidgets import QMessageBox, QWidget
